@@ -22,7 +22,7 @@
     <mapstruct.version>1.4.2.Final</mapstruct.version>
 
     <lombok.version>1.18.24</lombok.version>
-    <feign-version>11.0</feign-version>
+    <feign-version>11.9.1</feign-version>
     <feign-form-version>3.8.0</feign-form-version>
     <jackson-version>2.10.5</jackson-version>
     <jackson-databind-version>2.10.5.1</jackson-databind-version>
